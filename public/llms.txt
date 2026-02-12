@@ -1,43 +1,57 @@
-# Business — Generative Engine Optimization Map
+# הקליניקה של רותי — Generative Engine Optimization Map
+
+> A בריאות ורפואה אלטרנטיבית business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://ruthys-clinic.zappy5.app
 
 ### טיפולים
-https://example.com/treatments
+https://ruthys-clinic.zappy5.app/treatments
 
 ### אודות
-https://example.com/about
+https://ruthys-clinic.zappy5.app/about
 
 ### צור קשר
-https://example.com/contact
+https://ruthys-clinic.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ruthys-clinic.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ruthys-clinic.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ruthys-clinic.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About הקליניקה של רותי
+הקליניקה של רותי is a business in the בריאות ורפואה אלטרנטיבית industry.
+
+## Target Audience
+- אנשי מקצוע לחוצים
+- גמלאים מודעי בריאות
+- הורים מחפשי בריאות
+- חובבי רפואה אלטרנטיבית
+- אמהות לאחר לידה
+
+## Industry
+בריאות ורפואה אלטרנטיבית
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://ruthys-clinic.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ruthys-clinic.zappy5.app/robots.txt
