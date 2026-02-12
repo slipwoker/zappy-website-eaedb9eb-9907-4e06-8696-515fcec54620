@@ -1,0 +1,57 @@
+# הקליניקה של רותי — Generative Engine Optimization Map
+
+> A בריאות ורפואה אלטרנטיבית business.
+
+---
+
+## Pages
+
+### בית
+https://-eaedb9eb.zappy5.app
+
+### טיפולים
+https://-eaedb9eb.zappy5.app/treatments
+
+### אודות
+https://-eaedb9eb.zappy5.app/about
+
+### צור קשר
+https://-eaedb9eb.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-eaedb9eb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-eaedb9eb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-eaedb9eb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הקליניקה של רותי
+הקליניקה של רותי is a business in the בריאות ורפואה אלטרנטיבית industry.
+
+## Target Audience
+- אנשי מקצוע לחוצים
+- גמלאים מודעי בריאות
+- הורים מחפשי בריאות
+- חובבי רפואה אלטרנטיבית
+- אמהות לאחר לידה
+
+## Industry
+בריאות ורפואה אלטרנטיבית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-eaedb9eb.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-eaedb9eb.zappy5.app/robots.txt
