@@ -1,6 +1,4 @@
-# הקליניקה של רותי — Generative Engine Optimization Map
-
-> A בריאות ורפואה אלטרנטיבית business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,19 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About הקליניקה של רותי
-הקליניקה של רותי is a business in the בריאות ורפואה אלטרנטיבית industry.
-
-## Target Audience
-- אנשי מקצוע לחוצים
-- גמלאים מודעי בריאות
-- הורים מחפשי בריאות
-- חובבי רפואה אלטרנטיבית
-- אמהות לאחר לידה
-
-## Industry
-בריאות ורפואה אלטרנטיבית
-
+## About Business
 ---
 
 # Additional Resources
